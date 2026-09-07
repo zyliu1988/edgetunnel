@@ -55,7 +55,7 @@
    - 填入你已转入 CF 域名解析服务的次级域名，例如:`vless.google.com`后 点击`添加自定义域`，等待证书生效即可。
 
 4. 访问后台：
-   - 访问 `https://vless.google.com/admin` 输入管理员密码即可登录后台。
+   - 访问 `https://vless.google.com/admin` 输入管理员密码即可登录后台。 
 
 </details>
 
